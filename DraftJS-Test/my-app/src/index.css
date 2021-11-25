@@ -11,8 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 body {
-  background-color: rgb(207, 145, 123);
+  background-color: rgb(255, 225, 205);
+  color:rgb(0, 0, 0);
 }
 head {
   background-color: rgb(207, 145, 123);
