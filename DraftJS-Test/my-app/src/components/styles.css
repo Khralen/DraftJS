@@ -4,7 +4,7 @@
   }
   
   .PostEditor__container {
-    background-color: rgb(134, 43, 43);
+    background-color: rgb(255, 225, 205);
     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.4);
     transition: all 0.1s ease-out;
   }
@@ -46,7 +46,7 @@
   .PostEditor__footer button {
     opacity: 0.8;
     color: #182433;
-    background-color: #f7f7f7;
+    background-color: #ffffff;
     border: 0;
     border-radius: 3px;
     box-shadow: none;
@@ -59,3 +59,7 @@
     text-transform: uppercase;
   }
   
+  .search-container {
+    color: #000000;
+    
+  }

@@ -9,6 +9,9 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <Search />
+    <div className="search-container">
+      <Search />
+    </div>
     <div className="container">
       <MyAutoComplete/>
     </div>
