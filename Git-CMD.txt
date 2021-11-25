@@ -1,1 +1,3 @@
 git config --list
+git pull feature/branchname
+git commit -am"message"
